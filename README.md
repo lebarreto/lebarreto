@@ -18,8 +18,6 @@ I'm a full stack developer who's always willing to learn and work across technol
 - 📫 How to reach me: leticiambrt@gmail.com | leticia.barreto@gml-tec.com.br | [LinkedIn](https://linkedin.com/in/leticiambarreto) 
 - 💻 I have worked on Java, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, etc.
 
-### Show some ❤️ by starring some of the repositories!
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lebarreto&theme=radical&show_icons=true&hide_border=true)
 
 ⭐️ From [lebarreto](https://github.com/lebarreto)
