@@ -13,7 +13,7 @@ I'm a full stack developer who's always willing to learn and work across technol
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, React, React Native, MongoDB and MySQL 💻.
+- 🔭 I’m currently working with Node.js, ReactJS and Postgres 💻.
 - 🌱 I’m currently working as a Full Stack Developer 🚀.
 - 📫 How to reach me: leticiambrt@gmail.com | leticia.barreto@gml-tec.com.br | [LinkedIn](https://linkedin.com/in/leticiambarreto) 
 - 💻 I have worked on Java, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, etc.
