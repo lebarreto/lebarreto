@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with Node.js, ReactJS and Postgres 💻.
 - 🌱 I’m currently working as a Full Stack Developer 🚀.
-- 📫 How to reach me: leticiambrt@gmail.com | leticia.barreto@gml-tec.com.br | [LinkedIn](https://linkedin.com/in/leticiambarreto) 
+- 📫 How to reach me: leticiambrt@gmail.com | [LinkedIn](https://linkedin.com/in/leticiambarreto) 
 - 👩🏽‍💻 All of my projects are available at [https://github.com/lebarreto](https://github.com/lebarreto)
 
 <h3 align="left">Connect with me:</h3>
